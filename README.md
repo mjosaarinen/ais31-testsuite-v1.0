@@ -1,4 +1,5 @@
 # AIS 31 Test Suite from BSI, Version 1.0
+2020-07-04  Markku-Juhani O. Saarinen <mjos@iki.fi>
 
 ## a.k.a. AIS 31 (V1) Referenzimplementierung - v1.0 
 
@@ -17,7 +18,7 @@ The original zip file (`AIS_31_testsuit.zip`) is included here as a reference.
 da8165832251290d57316ce68ca0513a8f65c64680d617cbff094008641f86a3  AIS_31_testsuit.zip
 e9e39a3a0ea5d996415d40981944736126aaace788f8339238d65d514f33c53b  Evaluator.java
 ```
-Orignal files are dated in March 2004 and were downloaded on July 7, 2020 from:
+Orignal files are dated in March 2004 and were downloaded on July 4, 2020 from:
 https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Zertifizierung/Interpretationen/AIS_31_testsuit_zip
 
 On linux the preliminaries (at least for Ubuntu 20.04) are installed with
