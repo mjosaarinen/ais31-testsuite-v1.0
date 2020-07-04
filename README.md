@@ -20,7 +20,7 @@ e9e39a3a0ea5d996415d40981944736126aaace788f8339238d65d514f33c53b  Evaluator.java
 Orignal files are dated in March 2004 and were downloaded on July 7, 2020 from:
 https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Zertifizierung/Interpretationen/AIS_31_testsuit_zip
 
-On linux the preliminaries are (at least for Ubuntu 20.04) installed with
+On linux the preliminaries (at least for Ubuntu 20.04) are installed with
 ```
 # sudo apt install default-jdk 
 ```
