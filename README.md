@@ -40,7 +40,7 @@ Executing it:
 $ java Evaluator
 ```
 
-Input filename goes on top ("In dieses Feld datienamen.."), the bits/sample
+Input filename goes on top ("In dieses Feld Dateinamen.."), the bits/sample
 goes into the "Breite in Bit" and then there's a bunch of switches to play
 with. The input file needs to have 5,220,000 bits (how many bytes -- that
 depends on your encoding). Then hit the big green START!
